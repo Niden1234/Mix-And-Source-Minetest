@@ -2,7 +2,7 @@
 
 Texture Pack of a Mix of mods.
 
-Helper: DifiKAt
+Helper: DifiKat
 
 3D_Armor: https://content.minetest.net/packages/stu/3d_armor/
 
